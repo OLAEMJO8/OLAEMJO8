@@ -1,6 +1,7 @@
 <img align="right" src="https://media.licdn.com/dms/image/D4D16AQGvRRwjKjMHbg/profile-displaybackgroundimage-shrink_350_1400/0/1690841441701?e=1696464000&v=beta&t=rL8O-u6URlo8k0HV0reuE9ByDBJckaBJrtAoynHLAfA" />
+</a>
 
-<br/>
+
 
 ### <div align="center">¡Hola! Soy Maria Jose Olaechea Full Stack Developer Junior </div>  
   
