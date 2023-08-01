@@ -1,4 +1,4 @@
-
+<img align="right" src="https://media.licdn.com/dms/image/D4D16AQGvRRwjKjMHbg/profile-displaybackgroundimage-shrink_350_1400/0/1690841441701?e=1696464000&v=beta&t=rL8O-u6URlo8k0HV0reuE9ByDBJckaBJrtAoynHLAfA" />
   
 
 ### <div align="center">¡Hola! Soy Maria Jose Olaechea Full Stack Developer Junior </div>  
@@ -11,16 +11,10 @@ Las valiosas enseñanzas del Clown también me acompañaron durante mi paso por 
 
 Si estás buscando una desarrolladora apasionada, proactiva y con ganas de seguir aprendiendo, ¡no dudes en conectarte conmigo a través de estos medios:
 
-<br/>  
-📞: +5492284710795
-<br/>  
-💻: olaecheamariajose@gmail.com
-<br/>  
-💼: https://www.linkedin.com/in/mjolaechea/
-<br/>  
+<p><a href="https://www.linkedin.com/in/mjolaechea/"><img src="https://img.shields.io/badge/-@mjolaechea-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mjolaechea/" alt="LinkedIn Badge"></a>  <img src="https://img.shields.io/badge/-olaecheamariajose@gmail.com-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Gmail&amp; alt="Gmail Badge"></p>
 
 
-## My Skill Set  
+## My Skill 
 <table><tr><td valign="top" width="33%">
 
 
