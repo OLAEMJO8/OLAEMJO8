@@ -1,9 +1,9 @@
 <img align="right" src="https://media.licdn.com/dms/image/D4D16AQGvRRwjKjMHbg/profile-displaybackgroundimage-shrink_350_1400/0/1690841441701?e=1696464000&v=beta&t=rL8O-u6URlo8k0HV0reuE9ByDBJckaBJrtAoynHLAfA" />
-</a>
 
 
 
-### <div align="center">¡Hola! Soy Maria Jose Olaechea Full Stack Developer Junior </div>  
+
+<h2>Hola! Soy <a> Maria Jose</a></h2>
   
 Hola a todos, ¡soy María José! Me desempeño como Fullstack Developer tras haber completado exitosamente el bootcamp Soy Henry, donde adquirí conocimientos en tecnologías como JavaScript, React, Redux, ChakraUI, Node y Express, entre otras.
 
