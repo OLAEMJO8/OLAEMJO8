@@ -16,7 +16,7 @@ Si estás buscando una desarrolladora apasionada, proactiva y con ganas de segui
 <p><a href="https://www.linkedin.com/in/mjolaechea/"><img src="https://img.shields.io/badge/-@mjolaechea-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mjolaechea/" alt="LinkedIn Badge"></a>  <img src="https://img.shields.io/badge/-olaecheamariajose@gmail.com-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=Gmail&amp; alt="Gmail Badge"></p>
 
 
-## My Skill 
+## My Skills 
 <p align="left">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
