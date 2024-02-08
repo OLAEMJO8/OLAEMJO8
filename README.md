@@ -1,4 +1,4 @@
-<img align="right" src="https://media.licdn.com/dms/image/D4D16AQEWGl9059s67A/profile-displaybackgroundimage-shrink_350_1400/0/1690857779222?e=1696464000&v=beta&t=0w1y0NC6xd16-kVNO2oEsuShHbF3hWGzntOYYsRSz28" />
+<img align="right" src="[https://media.licdn.com/dms/image/D4D16AQEWGl9059s67A/profile-displaybackgroundimage-shrink_350_1400/0/1690857779222?e=1696464000&v=beta&t=0w1y0NC6xd16-kVNO2oEsuShHbF3hWGzntOYYsRSz28](https://github.com/OLAEMJO8/Portfolio2024/blob/main/src/Assets/banner.png?raw=true)" />
 
 
 
