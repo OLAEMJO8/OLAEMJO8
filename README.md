@@ -5,7 +5,7 @@
 
 <h2>Hola! Soy <a> Majo</a></h2>
   
-Hola a todos, ¡soy María José! Me desempeño como Fullstack Developer tras haber completado exitosamente el bootcamp Soy Henry, donde adquirí conocimientos en tecnologías como JavaScript, React, Redux, ChakraUI, Node y Express, entre otras.
+Me desempeño como Fullstack Developer tras haber completado exitosamente el bootcamp Soy Henry, donde adquirí conocimientos en tecnologías como JavaScript, React, Vue, Redux, ChakraUI, Node y Express, entre otras.
 
 Además de mi pasión por el desarrollo web, dedico parte de mi tiempo a ser Clown, una disciplina artística que ha enriquecido mi vida y sigo perfeccionando. El Clown me ha enseñado a perder el miedo al ridículo y a abrazar el fracaso como parte del camino hacia el éxito.
 
