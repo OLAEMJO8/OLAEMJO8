@@ -3,7 +3,7 @@
 
 
 
-<h2>Hola! Soy <a> Maria Jose</a></h2>
+<h2>Hola! Soy <a> Majo</a></h2>
   
 Hola a todos, ¡soy María José! Me desempeño como Fullstack Developer tras haber completado exitosamente el bootcamp Soy Henry, donde adquirí conocimientos en tecnologías como JavaScript, React, Redux, ChakraUI, Node y Express, entre otras.
 
